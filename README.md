@@ -9,19 +9,33 @@
 
 
 ⚙️・Functions:
- ╔══════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-[1] -> Search by IP address          ║       [12] -> Token Spam
-[2] -> IP TO Port                    ║       [13] -> Token Generator
-[3] -> Ddos                          ║       [14]-> Token Status Changer
-[4] -> Search token information      ║       [15] -> Bot ID To Invite
-[5] -> Number Info                   ║       [16] -> Search database by Discord ID
-[6] -> Dox Create                    ║       [17] -> Search by domain
-[7] -> Token Checker                 ║       [18] -> Email OSINT                     
-[8] -> Discord Token MASS DM         ║       [19] -> Nitro Generator
-[9] -> Token Joiner                  ║       [20] -> CC Generator 
-[10] -> Token Change Name            ║       [21] -> QUIT 
-[11] -> Token Change Bio             ║ 
-╚══════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+[1] -> Search by IP address        
+[2] -> IP TO Port                    
+[3] -> Ddos                         
+[4] -> Search token information     
+[5] -> Number Info                  
+[6] -> Dox Create                  
+[7] -> Token Checker                              
+[8] -> Discord Token MASS DM        
+[9] -> Token Joiner                 
+[10] -> Token Change Name           
+[11] -> Token Change Bio             
+[12] -> Token Spam
+[13] -> Token Generator
+[14]-> Token Status Changer
+[15] -> Bot ID To Invite
+[16] -> Search database by Discord ID
+[17] -> Search by domain
+[18] -> Email OSINT     
+[19] -> Nitro Generator
+[20] -> CC Generator 
+[21] -> QUIT 
+
+
+
+
+
 
 
 🔒・Requirements:
